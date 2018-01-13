@@ -10,3 +10,7 @@ Install pocketsphinx
 $ git clone --recursive https://github.com/bambocher/pocketsphinx-python  
 $ cd pocketsphinx-python  
 $ python setup.py install
+
+В директории pocketsphinx/model представлен словарь и акустическая модель русского языка  
+Для работы требуется лингвистическая модель, которую можно скачать по ссылке:  
+https://cloud.mail.ru/public/AkNg/v41bm4mTG
